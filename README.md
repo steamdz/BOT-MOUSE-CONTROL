@@ -1,7 +1,7 @@
 # BOT-MOUSE-CONTROL
 BOT MOUSE CONTROL #22 Using Python
 ---------------------------------------
-ALL CODES DROPPED IN ONE FILE (aymen.py)
+ALL CODES DROPPED IN ONE FILE (main.py)
 ---------------------------------------
 Follow me at :
 ----------------------------------------
